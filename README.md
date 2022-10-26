@@ -32,4 +32,8 @@ Lastly, for the fourth attempt, three hidden layers were applied. The first laye
 
 <img width="1151" alt="Screen Shot 2022-10-26 at 1 10 33 PM" src="https://user-images.githubusercontent.com/104328106/198115461-138a9c3b-974c-4891-b9f4-e587c1f82cf0.png">
 
+In order to achieve an accuracy rate more than 75%, significant changes to the activation functions and hidden layers were considered. However, the runtime to execute the files was longer than expected. 
 
+
+# Summary 
+The models presented had an accuracy of approximately 
