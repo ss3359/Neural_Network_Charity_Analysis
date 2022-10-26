@@ -36,4 +36,4 @@ In order to achieve an accuracy rate more than 75%, significant changes to the a
 
 
 # Summary 
-The models presented had an accuracy of approximately 
+The models presented had an accuracy of approximately 73 percent. This indicates an improvement between the models used to make accurate perdictions. The reccomendation to further refine the models is to find better features that helps conceptualize what determines the variable IS_SUCESSFUL to be true. Some features needed to be considered is an in-depth knowledge of other firms being funded. 
